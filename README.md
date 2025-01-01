@@ -1,5 +1,7 @@
 **Toy wildfire simulation to study effects of parameters on emergent systems.**
 
+![Gif of wildfire simulation running](wildfire.gif)
+
 ---
 ## Goal
 The goal of this project was to create a system of emergent large scale properties (wildfires) by only creating simple rules that are applied on small scales.
