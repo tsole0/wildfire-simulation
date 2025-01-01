@@ -1,4 +1,4 @@
-Toy wildfire simulation to study effects of parameters on emergent systems.
+**Toy wildfire simulation to study effects of parameters on emergent systems.**
 
 ---
 ## Goal
