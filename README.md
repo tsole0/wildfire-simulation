@@ -1,4 +1,4 @@
-**Toy wildfire simulation to study effects of parameters on emergent systems. (Unoptimized)**
+**Wildfire simulation to study effects of parameters on emergent systems. (Unoptimized)**
 
 <img src="wildfire.gif" alt="Gif of wildfire simulation running" class="center" width="500"/>
 
